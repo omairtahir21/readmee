@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAF_qsrlC0s/0lRgbXdJuN5P8Kk_-BToVg/edit?utm_content=DAF_qsrlC0s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 # Hi 👋, I'm Omair Tahir
 
 Transcending pixels, weaving dreams, and shaping the digital horizon.
