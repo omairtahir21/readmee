@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omair Tahir</h1>
 <h3 align="center">Transcending pixels, weaving dreams, and shaping the digital horizon.</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/omairtahir21/omairtahir21/main/assets/flutter-dev.gif">
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1724889600&v=beta&t=4IMVRA_U6PoJS_65VIWd4t4lo_2gMqAoJfUmw3r1Eo4">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=junaidahmed032&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
