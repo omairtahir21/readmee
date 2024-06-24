@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omair Tahir</h1>
 <h3 align="center">Transcending pixels, weaving dreams, and shaping the digital horizon.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1724889600&v=beta&t=4IMVRA_U6PoJS_65VIWd4t4lo_2gMqAoJfUmw3r1Eo4">
+<img align="left" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1724889600&v=beta&t=4IMVRA_U6PoJS_65VIWd4t4lo_2gMqAoJfUmw3r1Eo4">
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=omairtahir21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Dart | Flutter**
 - 👯 I’m looking to collaborate on **Python & React Native Projects**
 - 🤝 I’m looking for help with **Dart | Flutter**
-- 👨‍💻 You can find all my details and projects at [linktr.ee/Omair_Tahir](https://linktr.ee/Omair_Tahir)
+- 👨‍💻 You can find all my details and projects at [Details.](https://linktr.ee/Omair_Tahir)
 - 💬 Ask me about **Python | React Native | C# | Wix & WordPress**
 - 📫 How to reach me: **omairtahir0021@gmail.com**
 - 📄 Learn about my experiences: [LinkedIn](https://www.linkedin.com/in/omairtahir/)
@@ -46,10 +46,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omairtahir21&" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="left">Professional Profiles:</h3>
+<h3 align="left">Other Profiles:</h3>
 <p align="left">
-  <a href="https://github.com/omairtahir21/Resume/blob/main/Omair%20Tahir%20Resume-1.pdf" target="_blank">Resume</a> <br>
-  <a href="https://developers.google.com/profile/u/Omair021" target="_blank">Google Developer Profile</a> <br>
-  <a href="https://www.theforage.com/profile-onboarding/one" target="_blank">Forage Profile</a> <br>
-  <a href="https://www.coursera.org/account-profile" target="_blank">Coursera Profile</a>
+  <a href="https://github.com/omairtahir21/Resume/blob/main/Omair%20Tahir%20Resume-1.pdf" target="_blank"><img src="https://www.iconpacks.net/icons/2/free-resume-icon-4022-thumb.png" alt="Resume" width="30" height="30" /> Resume</a> <br>
+  <a href="https://developers.google.com/profile/u/Omair021" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_developer_badge_logo_icon_169122.png" alt="Google Developer Profile" width="30" height="30" /> Google Developer Profile</a> <br>
+  <a href="https://www.theforage.com/profile-onboarding/one" target="_blank"><img src="https://image.flaticon.com/icons/png/512/2111/2111554.png" alt="Forage Profile" width="30" height="30" /> Forage Profile</a> <br>
+  <a href="https://www.coursera.org/account-profile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Coursera_logo.svg/1200px-Coursera_logo.svg.png" alt="Coursera Profile" width="30" height="30" /> Coursera Profile</a>
 </p>
