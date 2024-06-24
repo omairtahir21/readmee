@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/design/DAF_qsrlC0s/0lRgbXdJuN5P8Kk_-BToVg/edit?utm_content=DAF_qsrlC0s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 # Hi 👋, I'm Omair Tahir
 
 Transcending pixels, weaving dreams, and shaping the digital horizon.
