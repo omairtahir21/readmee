@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Dart | Flutter**
 - 👯 I’m looking to collaborate on **Python & React Native Projects**
 - 🤝 I’m looking for help with **Dart | Flutter**
-- 👨‍💻 You can find all my details and projects at [detail](https://linktr.ee/Omair_Tahir)
+- 👨‍💻 You can find all my details and projects at [linktr.ee/Omair_Tahir](https://linktr.ee/Omair_Tahir)
 - 💬 Ask me about **Python | React Native | C# | Wix & WordPress**
 - 📫 How to reach me: **omairtahir0021@gmail.com**
 - 📄 Learn about my experiences: [LinkedIn](https://www.linkedin.com/in/omairtahir/)
@@ -47,9 +47,9 @@
 </p>
 
 <h3 align="left">Professional Profiles:</h3>
-<ul>
-  <li><a href="https://github.com/omairtahir21/Resume/blob/main/Omair%20Tahir%20Resume-1.pdf" target="_blank">Resume</a></li>
-  <li><a href="https://developers.google.com/profile/u/Omair021" target="_blank">Google Developer Profile</a></li>
-  <li><a href="https://www.theforage.com/profile-onboarding/one" target="_blank">Forage Profile</a></li>
-  <li><a href="https://www.coursera.org/account-profile" target="_blank">Coursera Profile</a></li>
-</ul>
+<p align="left">
+  <a href="https://github.com/omairtahir21/Resume/blob/main/Omair%20Tahir%20Resume-1.pdf" target="_blank">Resume</a> <br>
+  <a href="https://developers.google.com/profile/u/Omair021" target="_blank">Google Developer Profile</a> <br>
+  <a href="https://www.theforage.com/profile-onboarding/one" target="_blank">Forage Profile</a> <br>
+  <a href="https://www.coursera.org/account-profile" target="_blank">Coursera Profile</a>
+</p>
