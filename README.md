@@ -4,15 +4,15 @@
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1724889600&v=beta&t=4IMVRA_U6PoJS_65VIWd4t4lo_2gMqAoJfUmw3r1Eo4">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=junaidahmed032&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=omairtahir21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🔭 I’m currently working on a **secret Flutter project**
 - 🌱 I’m currently learning **Dart | Flutter**
 - 👯 I’m looking to collaborate on **Python & React Native Projects**
 - 🤝 I’m looking for help with **Dart | Flutter**
-- 👨‍💻 All of my projects are available at [linktr.ee/Omair_Tahir](https://linktr.ee/Omair_Tahir)
-- 💬 Ask me about **Python | React Native | C# | Wix & Wordpress**
+- 👨‍💻 You can find all my details and projects at [detail](https://linktr.ee/Omair_Tahir)
+- 💬 Ask me about **Python | React Native | C# | Wix & WordPress**
 - 📫 How to reach me: **omairtahir0021@gmail.com**
 - 📄 Learn about my experiences: [LinkedIn](https://www.linkedin.com/in/omairtahir/)
 - ⚡ Fun fact: **Reflecting on it, I'll eat around 35 tons of food in my lifetime - that's a lot to chew on!**
@@ -45,3 +45,11 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omairtahir21&" alt="GitHub Streak Stats" />
 </p>
+
+<h3 align="left">Professional Profiles:</h3>
+<ul>
+  <li><a href="https://github.com/omairtahir21/Resume/blob/main/Omair%20Tahir%20Resume-1.pdf" target="_blank">Resume</a></li>
+  <li><a href="https://developers.google.com/profile/u/Omair021" target="_blank">Google Developer Profile</a></li>
+  <li><a href="https://www.theforage.com/profile-onboarding/one" target="_blank">Forage Profile</a></li>
+  <li><a href="https://www.coursera.org/account-profile" target="_blank">Coursera Profile</a></li>
+</ul>
