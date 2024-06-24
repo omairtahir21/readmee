@@ -18,8 +18,7 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 
 ## Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/omairtahir/)
-[![WhatsApp](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg)](https://wa.me/+923165614651)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" height="20">](https://www.linkedin.com/in/omairtahir/) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="20" height="20">](https://wa.me/+923165614651)
 
 ## Languages and Tools:
 
