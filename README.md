@@ -21,7 +21,7 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
   </tr>
   <tr>
     <td><strong>👯 I’m looking to collaborate on</strong></td>
-    <td><strong>Python & React Native Projects</strong></td>
+    <td><strong>Andriod & IOS Projects</strong></td>
   </tr>
   <tr>
     <td><strong>🤝 I’m looking for help with</strong></td>
@@ -29,7 +29,7 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
   </tr>
   <tr>
     <td><strong>💬 Ask me about</strong></td>
-    <td><strong>Python | React Native | C# | Wix & WordPress</strong></td>
+    <td><strong>Python | Flutter | C# | Java</strong></td>
   </tr>
   <tr>
     <td><strong>📫 How to reach me</strong></td>
