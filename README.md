@@ -1,4 +1,5 @@
-![logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+# ![logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 ## Hi 👋, I'm Omair Tahir
 
 Transcending pixels, weaving dreams, and shaping the digital horizon.
@@ -20,7 +21,7 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 
 ## Connect with Me
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35">](https://www.linkedin.com/in/omairtahir/) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35">](https://www.linkedin.com/in/omairtahir/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="35" height="35">](https://wa.me/+923165614651)
 
 ## Languages and Tools
