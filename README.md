@@ -67,13 +67,13 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 
 ## Languages and Tools
 
-![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Android Studio](https://www.vectorlogo.zone/logos/android/android-icon.svg)
-![iOS](https://www.vectorlogo.zone/logos/apple/apple-icon.svg)
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+- ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) Flutter
+- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git
+- ![Android Studio](https://www.vectorlogo.zone/logos/android/android-icon.svg) Android Studio
+- ![iOS](https://www.vectorlogo.zone/logos/apple/apple-icon.svg) iOS
+- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) Figma
 
-## GitHub Stats
+# GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omairtahir21&show_icons=true&locale=en)
 
