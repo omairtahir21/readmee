@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
+![logo](https://github.com/JunaidAhmed032/JunaidAhmed032/blob/main/github_banner_junaid-ahmed.png)
 ## Hi 👋, I'm Omair Tahir
 
 Transcending pixels, weaving dreams, and shaping the digital horizon.
