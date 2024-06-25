@@ -10,14 +10,41 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 
 ## About Me
 
-- 🔭 I’m currently working on a **secret Flutter project**
-- 🌱 I’m currently learning **Dart | Flutter**
-- 👯 I’m looking to collaborate on **Python & React Native Projects**
-- 🤝 I’m looking for help with **Dart | Flutter**
-- 💬 Ask me about **Python | React Native | C# | Wix & WordPress**
-- 📫 How to reach me: **omairtahir0021@gmail.com**
-- 📄 Learn about my experiences: [LinkedIn](https://www.linkedin.com/in/omairtahir/)
-- ⚡ Fun fact: **Reflecting on it, I'll eat around 35 tons of food in my lifetime - that's a lot to chew on!**
+<table>
+  <tr>
+    <td><strong>🔭 I’m currently working on</strong></td>
+    <td> a <strong>secret Flutter project</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🌱 I’m currently learning</strong></td>
+    <td><strong>Dart | Flutter</strong></td>
+  </tr>
+  <tr>
+    <td><strong>👯 I’m looking to collaborate on</strong></td>
+    <td><strong>Python & React Native Projects</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🤝 I’m looking for help with</strong></td>
+    <td><strong>Dart | Flutter</strong></td>
+  </tr>
+  <tr>
+    <td><strong>💬 Ask me about</strong></td>
+    <td><strong>Python | React Native | C# | Wix & WordPress</strong></td>
+  </tr>
+  <tr>
+    <td><strong>📫 How to reach me</strong></td>
+    <td><strong>omairtahir0021@gmail.com</strong></td>
+  </tr>
+  <tr>
+    <td><strong>📄 Learn about my experiences</strong></td>
+    <td><a href="https://www.linkedin.com/in/omairtahir/"><strong>LinkedIn</strong></a></td>
+  </tr>
+  <tr>
+    <td><strong>⚡ Fun fact</strong></td>
+    <td><strong>Reflecting on it, I'll eat around 35 tons of food in my lifetime - that's a lot to chew on!</strong></td>
+  </tr>
+</table>
+
 
 ## Connect with Me
 
