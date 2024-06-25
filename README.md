@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1G3ocy-Uq7hW8hUbfWMS3l2v-5SoKQsvk/view?usp=sharing)
+![logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 ## Hi 👋, I'm Omair Tahir
 
 Transcending pixels, weaving dreams, and shaping the digital horizon.
