@@ -1,4 +1,4 @@
-![logo](https://github.com/JunaidAhmed032/JunaidAhmed032/blob/main/github_banner_junaid-ahmed.png)
+![logo](https://drive.google.com/file/d/1G3ocy-Uq7hW8hUbfWMS3l2v-5SoKQsvk/view?usp=sharing)
 ## Hi 👋, I'm Omair Tahir
 
 Transcending pixels, weaving dreams, and shaping the digital horizon.
