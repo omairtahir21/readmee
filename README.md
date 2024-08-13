@@ -59,19 +59,19 @@ Transforming ideas into digital experiences with expertise and creativity.
 
 ## Additional Profiles
 
-- **[Resume](https://github.com/omairtahir21/Resume/blob/main/Omair%20Tahir%20Resume-1.pdf)**  
-  ![Resume Icon](https://cdn.icon-icons.com/icons2/1827/PNG/512/4288583documentfileresearchresumesearch-115773_115740.png)  
-  View my latest resume and learn about my professional journey.
+Resume
+<img src="https://cdn.icon-icons.com/icons2/1827/PNG/512/4288583documentfileresearchresumesearch-115773_115740.png" alt="Resume Icon" width="20" height="20" style="vertical-align:middle;">
+View my latest resume and learn about my professional journey.
 
-- **[Google Developer Profile](https://developers.google.com/profile/u/Omair021)**  
-  ![Google Developer Icon](https://cdn.icon-icons.com/icons2/729/PNG/512/google_icon-icons.com_62736.png)  
-  Explore my contributions and projects on the Google Developer platform.
+Google Developer Profile
+<img src="https://cdn.icon-icons.com/icons2/729/PNG/512/google_icon-icons.com_62736.png" alt="Google Developer Icon" width="20" height="20" style="vertical-align:middle;">
+Explore my contributions and projects on the Google Developer platform.
 
-- **[Forage Profile](https://www.theforage.com/profile-onboarding/one)**  
-  ![Forage Icon](https://cdn.icon-icons.com/icons2/725/PNG/256/speech-balloon-green-f256_icon-icons.com_62632.png)  
-  Connect with me on Forage to see my virtual experience projects.
+Forage Profile
+<img src="https://cdn.icon-icons.com/icons2/725/PNG/256/speech-balloon-green-f256_icon-icons.com_62632.png" alt="Forage Icon" width="20" height="20" style="vertical-align:middle;">
+Connect with me on Forage to see my virtual experience projects.
 
-- **[Coursera Profile](https://www.coursera.org/account-profile)**  
-  ![Coursera Icon](https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_170320.png)  
-  Discover my completed courses and specializations on Coursera.
+Coursera Profile
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_170320.png" alt="Coursera Icon" width="20" height="20" style="vertical-align:middle;">
+Discover my completed courses and specializations on Coursera.
 
