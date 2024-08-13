@@ -39,13 +39,35 @@ Transforming ideas into digital experiences with expertise and creativity.
   </tr>
 </table>
 
-## Languages and Tools
+## 🚀 Languages and Tools
 
-- ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) **Flutter**
-- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) **Git**
-- ![Android Studio](https://www.vectorlogo.zone/logos/android/android-icon.svg) **Android Studio**
-- ![iOS](https://www.vectorlogo.zone/logos/apple/apple-icon.svg) **iOS**
-- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) **Figma**
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+    <br /><strong>Flutter</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <br /><strong>Git</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
+    <br /><strong>Android Studio</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.apple.com/ios/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="40" height="40"/>
+    <br /><strong>iOS</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    <br /><strong>Figma</strong>
+  </a>
+</p>
+
 
 ## GitHub Statistics
 
@@ -57,31 +79,19 @@ Transforming ideas into digital experiences with expertise and creativity.
 
 ## Additional Profiles
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/omairtahir21/Resume/blob/main/Omair%20Tahir%20Resume-1.pdf">
-        <img src="https://cdn.icon-icons.com/icons2/1827/PNG/512/4288583documentfileresearchresumesearch-115773_115740.png" width="40" height="40" alt="Resume" /><br/>
-        <strong>Resume</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developers.google.com/profile/u/Omair021">
-        <img src="https://cdn.icon-icons.com/icons2/729/PNG/512/google_icon-icons.com_62736.png" width="40" height="40" alt="Google Developer Profile" /><br/>
-        <strong>Google Developer Profile</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.theforage.com/profile-onboarding/one">
-        <img src="https://cdn.icon-icons.com/icons2/725/PNG/256/speech-balloon-green-f256_icon-icons.com_62632.png" width="40" height="40" alt="Forage Profile" /><br/>
-        <strong>Forage Profile</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.coursera.org/account-profile">
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_170320.png" width="40" height="40" alt="Coursera Profile" /><br/>
-        <strong>Coursera Profile</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+- **[Resume](https://github.com/omairtahir21/Resume/blob/main/Omair%20Tahir%20Resume-1.pdf)**  
+  ![Resume Icon](https://cdn.icon-icons.com/icons2/1827/PNG/512/4288583documentfileresearchresumesearch-115773_115740.png)  
+  View my latest resume and learn about my professional journey.
+
+- **[Google Developer Profile](https://developers.google.com/profile/u/Omair021)**  
+  ![Google Developer Icon](https://cdn.icon-icons.com/icons2/729/PNG/512/google_icon-icons.com_62736.png)  
+  Explore my contributions and projects on the Google Developer platform.
+
+- **[Forage Profile](https://www.theforage.com/profile-onboarding/one)**  
+  ![Forage Icon](https://cdn.icon-icons.com/icons2/725/PNG/256/speech-balloon-green-f256_icon-icons.com_62632.png)  
+  Connect with me on Forage to see my virtual experience projects.
+
+- **[Coursera Profile](https://www.coursera.org/account-profile)**  
+  ![Coursera Icon](https://cdn.icon-icons.com/icons2/2699/PNG/512/coursera_logo_icon_170320.png)  
+  Discover my completed courses and specializations on Coursera.
+
