@@ -41,32 +41,12 @@ Transforming ideas into digital experiences with expertise and creativity.
 
 ## 🚀 Languages and Tools
 
-<p align="center">
-  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-    <br /><strong>Flutter</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <br /><strong>Git</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/>
-    <br /><strong>Android Studio</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.apple.com/ios/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="40" height="40"/>
-    <br /><strong>iOS</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-    <br /><strong>Figma</strong>
-  </a>
-</p>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30" style="vertical-align:middle;"> Flutter
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="vertical-align:middle;"> Git
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="30" height="30" style="vertical-align:middle;"> Android Studio
+<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="30" height="30" style="vertical-align:middle;"> iOS
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30" style="vertical-align:middle;"> Figma
+
 
 
 ## GitHub Statistics
