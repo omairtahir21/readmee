@@ -1,10 +1,13 @@
+## Greetings 👋, I’m Omair Tahir, a Software Engineer with a focus on crafting high-quality mobile applications for both Android and iOS using Flutter.
+
+
 ![Logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <div align="center">
     <a href="https://www.devmirza.ml">
         <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
     </a>
 </div>
-## Hello 👋, I'm Omair Tahir
+
 
 Transforming ideas into digital experiences with expertise and creativity.
 <div align="center">
