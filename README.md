@@ -8,12 +8,13 @@
 
 Transforming ideas into digital experiences with expertise and creativity.
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1724889600&v=beta&t=4IMVRA_U6PoJS_65VIWd4t4lo_2gMqAoJfUmw3r1Eo4" alt="Coding" width="400"/>
+  <img src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1724889600&v=beta&t=4IMVRA_U6PoJS_65VIWd4t4lo_2gMqAoJfUmw3r1Eo4" alt="Coding" width="800"/>
 
-  <img src="https://komarev.com/ghpvc/?username=omairtahir21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" width="200"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=omairtahir21&label=Profile%20Views&color=0e75b6&style=flat)
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omairtahir21&show_icons=true&locale=en)
 </div>
+
 
 
 ## About Me
