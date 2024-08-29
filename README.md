@@ -7,7 +7,11 @@ Transforming ideas into digital experiences with expertise and creativity.
 ![Coding](https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1724889600&v=beta&t=4IMVRA_U6PoJS_65VIWd4t4lo_2gMqAoJfUmw3r1Eo4)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omairtahir21&label=Profile%20Views&color=0e75b6&style=flat)
-
+<div align="center">
+    <a href="https://www.devmirza.ml">
+        <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
+    </a>
+</div>
 ## About Me
 
 | **🔭 Currently Working On** | **Secret Flutter Project** |
