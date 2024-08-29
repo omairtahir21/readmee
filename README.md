@@ -1,5 +1,6 @@
 <div align="center">
   <h2>Hello 👋, I'm Omair Tahir, a Software Engineer with a focus on crafting high-quality mobile applications for both Android and iOS using Flutter.</h2>
+    <h1>Transforming ideas into digital experiences with expertise and creativity.<h1>
 </div>
 
 
@@ -12,7 +13,7 @@
 </div>
 
 
-Transforming ideas into digital experiences with expertise and creativity.
+
 <div align="center">
   <img src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1724889600&v=beta&t=4IMVRA_U6PoJS_65VIWd4t4lo_2gMqAoJfUmw3r1Eo4" alt="Coding" width="800"/>
 
