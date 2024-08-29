@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hello 👋, I'm Omair Tahir, a Software Engineer with a focus on crafting high-quality mobile applications for both Android and iOS using Flutter.</h2>
-    <h1>Transforming ideas into digital experiences with expertise and creativity.<h1>
+    <h3>Transforming ideas into digital experiences with expertise and creativity.<h3>
 </div>
 
 
